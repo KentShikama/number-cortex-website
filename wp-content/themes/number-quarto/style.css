@@ -381,7 +381,11 @@ a:active {
     text-align: right;
     width: 50%;
 }
-
+#center-buttons {
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+}
 /*--------------------------------------------------------------
 6.0 Accessibility
 --------------------------------------------------------------*/
