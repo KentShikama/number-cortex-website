@@ -12,10 +12,10 @@
  */
 
 get_header(); ?>
-
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-
+                    <img src="<?php bloginfo('template_url'); ?>/images/numberquarto.png" alt="number quarto splash image" />
+                    <h1 style="color: #1f2374; font-family: gills sans; font-size: 3em; padding: 10px; padding-bottom: 30px;">Coming Soon...</h1>
 		</main><!-- #main -->
 	</div><!-- #primary -->
 <?php get_footer(); ?>
