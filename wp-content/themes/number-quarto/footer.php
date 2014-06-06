@@ -4,7 +4,7 @@
  *
  * Contains the closing of the #content div and all content after
  *
- * @package number quarto
+ * @package Number Quarto
  */
 ?>
 
@@ -12,9 +12,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'number-quarto' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'number-quarto' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'number-quarto' ), 'number quarto', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
+            Copyright © 2014 Kent Shikama. All rights reserved. <a href="<?php echo get_permalink(26); ?>">Terms of Use</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
