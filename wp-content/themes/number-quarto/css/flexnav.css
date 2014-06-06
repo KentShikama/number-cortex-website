@@ -9,7 +9,6 @@
     margin: 0 auto;
     width: 100%;
     text-align: center;
-    /* padding: 20px; */
 }
 .flexnav.opacity {
     opacity: 0; }
@@ -28,7 +27,8 @@
 .flexnav li {
     font-size: 100%;
     position: relative;
-    overflow: hidden; }
+    overflow: hidden; 
+}
 .flexnav li a {
     position: relative;
     display: block;
@@ -36,7 +36,7 @@
     z-index: 2;
     overflow: hidden;
     color: #222222;
-    background: #a6a6a2;
+    background: white;
     border-bottom: 1px solid rgba(0, 0, 0, 0.15); 
     text-decoration: none;
 }
@@ -120,7 +120,7 @@
         position: relative;
         list-style: none;
         display: inline-block;
-        background-color: #a6a6a2;
+        background-color: #CFCFCF;
         overflow: visible; 
         clear: both;
     }
