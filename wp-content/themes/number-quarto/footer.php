@@ -22,7 +22,7 @@
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51ee1b910e0fe34b"></script>
     <!-- AddThis Button END -->
     <div class="site-info">
-        Copyright © 2014 Kent Shikama. All rights reserved. <a href="<?php echo get_permalink(26); ?>">Terms of Use</a>
+        Copyright © 2014 Kent Shikama. All rights reserved. <a href="http://numberquarto.com/terms-use/">Terms of Use</a>
     </div><!-- .site-info -->
 </footer><!-- #colophon -->
 </div><!-- #page -->
