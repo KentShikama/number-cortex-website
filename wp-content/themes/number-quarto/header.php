@@ -15,6 +15,7 @@
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
         <link href="<?php bloginfo('template_url'); ?>/css/flexnav.css" rel="stylesheet" type="text/css" />
+        <link href="<?php bloginfo('template_url'); ?>/css/modernscale.css" rel="stylesheet" type="text/css" />
 
         <?php wp_head(); ?>
     </head>
