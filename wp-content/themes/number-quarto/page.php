@@ -9,12 +9,13 @@
  *
  * @package Number Quarto
  */
-
-get_header(); ?>
-
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
-                    <h1 style="font-family: gills sans; font-size: 3em; padding: 10px; padding-bottom: 30px;">Under Construction</h1>
-		</main><!-- #main -->
-	</div><!-- #primary -->
+get_header();
+?>
+<div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+        <?php while (have_posts()) : the_post(); ?>
+            <?php get_template_part('content', 'page'); ?>
+        <?php endwhile; // end of the loop. ?>
+    </main><!-- #main -->
+</div><!-- #primary -->
 <?php get_footer(); ?>
