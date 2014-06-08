@@ -835,8 +835,11 @@ p.logged-in-as {
 
 /* =Footer
 ----------------------------------------------- */
-
+#center-buttons {
+  display:inline-block;
+}
 #footer-area {
+  text-align: center;
   background-color: #313233;
   color: #CCC;
   font-size: 12px;
