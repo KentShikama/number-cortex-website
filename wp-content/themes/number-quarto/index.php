@@ -14,8 +14,11 @@
 get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-                    <img src="<?php bloginfo('template_url'); ?>/images/numberquarto.png" alt="number quarto splash image" />
-                    <h1 style="color: #1f2374; font-family: gills sans; font-size: 3em; padding: 10px; padding-bottom: 30px;">Coming Soon...</h1>
+                    <div id="numberquartobanner">
+                        <div id="number_quarto_title"><img src="images/number_quarto_title.png" alt="number quarto title" /></div>
+                        <div id="coming_soon"><img src="images/coming_soon.png" alt="coming soon" /></div>
+                        <div id="number_quarto_app_phone"><img src="images/number_quarto_on_iPhone_and_iPod_touch.png" alt="number quarto preview on iPhone and iPod touch" /></div>
+                    </div>
 		</main><!-- #main -->
 	</div><!-- #primary -->
 <?php get_footer(); ?>

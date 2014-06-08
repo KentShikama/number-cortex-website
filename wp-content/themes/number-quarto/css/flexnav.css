@@ -37,7 +37,7 @@
     z-index: 2;
     overflow: hidden;
     color: #222222;
-    background: white;
+    background: #f3f3f3;
     border-bottom: 1px solid rgba(0, 0, 0, 0.15); 
     text-decoration: none;
 }

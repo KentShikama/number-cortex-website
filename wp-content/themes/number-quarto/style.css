@@ -237,6 +237,7 @@ a:active {
 
 #center-buttons {
     margin: 5px;
+    margin-top: 30px;
     display: inline-block;
 }
 /*--------------------------------------------------------------
@@ -339,6 +340,31 @@ a:active {
 /*--------------------------------------------------------------
 10.0 Content
 --------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+10.0.0 Index page
+--------------------------------------------------------------*/
+#numberquartobanner {
+    position: relative;
+    background: #080000 url(/images/number_background.jpg) center top repeat-x;
+    height: 496px;
+}
+#number_quarto_title {
+    position: absolute;
+    left: 190px;
+    top: 81px;
+}
+#coming_soon {
+    position: absolute;
+    left: 240px;
+    top: 410px;
+}
+#number_quarto_app_phone {
+    position: absolute;
+    left: 920px;
+    top: 25px; 
+}
+
 /*--------------------------------------------------------------
 10.1 Posts and pages
 --------------------------------------------------------------*/
