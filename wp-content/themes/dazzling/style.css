@@ -282,10 +282,6 @@ textarea {
 }
 #logo_text {
     display: inline-block;
-        
-    /* margin-top: 9px; */
-
-    margin-left: 10px;
     vertical-align: middle;
 }
 /* =Number Quarto Banner
@@ -657,8 +653,7 @@ li.recentcomments {
   font-weight: 200;
   margin-bottom: 0;
   margin-top: -2px;
-  /* border-bottom: 1px solid #eee; */
-  height: 66px;
+  border-bottom: 1px solid #eee;
 }
 .navbar-default .navbar-nav > li > a {
   color: #999;
@@ -666,8 +661,8 @@ li.recentcomments {
 }
 .navbar > .container .navbar-brand {
   color: #4f788d;
-  font-size: 36px;
-  /* margin-left: -1px; */
+  font-size: 24px;
+  margin: 8px 0;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
@@ -957,7 +952,7 @@ p.logged-in-as {
     display: none;
   }
   .navbar > .container .navbar-brand {
-    margin: 0;
+    margin-top: 5px;
   }
   .navbar-default .navbar-nav > li > a {
     line-height: 20px;
