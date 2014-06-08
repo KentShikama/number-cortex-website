@@ -273,6 +273,21 @@ textarea {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
+/* =Header
+----------------------------------------------- */
+#logo {
+    height: 66px;
+    margin-top: 5px;
+}
+#logo_text {
+    display: inline-block;
+        
+    /* margin-top: 9px; */
+
+    margin-left: 10px;
+    vertical-align: middle;
+}
 /* =Number Quarto Banner
 ----------------------------------------------- */
 
@@ -642,16 +657,17 @@ li.recentcomments {
   font-weight: 200;
   margin-bottom: 0;
   margin-top: -2px;
-  border-bottom: 1px solid #eee;
+  /* border-bottom: 1px solid #eee; */
+  height: 66px;
 }
 .navbar-default .navbar-nav > li > a {
   color: #999;
   line-height: 30px;
 }
 .navbar > .container .navbar-brand {
-  color: #1FA67A;
-  font-size: 24px;
-  margin: 8px 0;
+  color: #4f788d;
+  font-size: 36px;
+  /* margin-left: -1px; */
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
