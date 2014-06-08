@@ -273,6 +273,36 @@ textarea {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+/* =Number Quarto Banner
+----------------------------------------------- */
+
+#numberquartobanner {
+    background: #080000 url(/images/number_background.jpg) center top repeat-x;
+    width: 100%;
+    height: 496px;
+    overflow: hidden;
+}
+#numberquartobannercontents {
+    width: 1024px;
+    margin: 0 auto;
+    position: relative;
+}
+#number_quarto_title {
+    position: absolute;
+    left: 40px;
+    top: 81px;
+}
+#coming_soon {
+    position: absolute;
+    left: 95px;
+    top: 410px;
+}
+#number_quarto_app_phone {
+    position: absolute;
+    left: 630px;
+    top: 25px; 
+}
+
 /* =Post styling
 ----------------------------------------------- */
 .entry-meta a {
