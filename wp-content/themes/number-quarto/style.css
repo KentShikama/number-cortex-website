@@ -348,6 +348,7 @@ a:active {
     position: relative;
     background: #080000 url(/images/number_background.jpg) center top repeat-x;
     height: 496px;
+    overflow: hidden;
 }
 #number_quarto_title {
     position: absolute;
