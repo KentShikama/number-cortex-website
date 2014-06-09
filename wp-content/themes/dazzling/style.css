@@ -314,6 +314,19 @@ textarea {
     top: 25px; 
 }
 
+#numberquartomobilebanner {
+    display: none;
+}
+
+@media (max-width: 540px) {
+    #numberquartomobilebanner {
+        display: block;
+    }
+    #numberquartobanner {
+        display: none;
+    }
+}
+
 /* =Post styling
 ----------------------------------------------- */
 .entry-meta a {

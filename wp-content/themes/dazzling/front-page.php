@@ -6,6 +6,9 @@ if (get_option('show_on_front') == 'posts') {
     get_header();
     ?>
 
+    <div id="numberquartomobilebanner">
+        <img src="/images/number_quarto_mobile_banner.jpg" alt="number quarto mobile banner" />    
+    </div>
     <div id="numberquartobanner">
         <div id="numberquartobannercontents">
             <div id="number_quarto_title"><img src="/images/number_quarto_title.png" alt="number quarto title" /></div>
