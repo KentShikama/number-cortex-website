@@ -45,7 +45,7 @@
 
                             <div id="logo">
                                 <img src="<?php header_image(); ?>"  height="58" width="58" alt="<?php bloginfo('name'); ?>"/>
-                                <div id="logo_text"><a class="navbar-brand" href="<?php echo esc_url(home_url('/')); ?>">Number Quarto</a></div>
+                                <div id="logo_text"><a class="navbar-brand" href="<?php echo esc_url(home_url('/')); ?>">Number Cortex</a></div>
                             </div><!-- end of #logo -->
 
                         <?php endif; // header image was removed ?>
