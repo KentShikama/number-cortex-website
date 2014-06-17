@@ -7,13 +7,13 @@ if (get_option('show_on_front') == 'posts') {
     ?>
 
     <div id="numberquartomobilebanner">
-        <img src="/images/number_quarto_mobile_banner.jpg" alt="number quarto mobile banner" />    
+        <img src="/images/number_cortex_mobile_banner.jpg" alt="number cortex mobile banner" />    
     </div>
     <div id="numberquartobanner">
         <div id="numberquartobannercontents">
-            <div id="number_quarto_title"><img src="/images/number_quarto_title.png" alt="number quarto title" /></div>
+            <div id="number_quarto_title"><img src="/images/number_cortex_title.png" alt="number cortex title" /></div>
             <div id="coming_soon"><img src="/images/coming_soon.png" alt="coming soon" /></div>
-            <div id="number_quarto_app_phone"><img src="/images/number_quarto_on_iPhone_and_iPod_touch.png" alt="number quarto preview on iPhone and iPod touch" /></div>
+            <div id="number_quarto_app_phone"><img src="/images/number_cortex_app.png" alt="number cortex app preview" /></div>
         </div>
     </div>
 
