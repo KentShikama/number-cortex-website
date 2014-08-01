@@ -1089,3 +1089,27 @@ table.cortex td {
 table.cortex tbody tr:hover td {
     color: #1FA67A;
 }
+
+/********************************************************
+
+17. Appeal Text
+
+******************************************************/
+
+#appeals {
+    text-align: center;
+}
+.appeal {
+    width: 24.5%;
+    min-width: 180px;
+    display:inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+#appeals .fa {
+  -webkit-font-smoothing: antialiased;  
+}
+
+#appeals .fa-stack {
+    color: #1FA67A;
+}
