@@ -63,14 +63,14 @@ if (get_option('show_on_front') == 'posts') {
                     </div>
                 </div>
                 <div id="overview">
-                    <h1>Overview of Game</h1>
-                    <p>Number Cortex is a two player twist of the classic board game Quarto. You take turns with your opponent placing numbers (1 ~ 17, excluding 9) on a square grid. However, you get to choose which number your opponent will play next. Your objective in this game is to get four in a row of a “common attribute” either horizontally, vertically, or diagonally. In other words, you are trying to line up four-in-a-row of</p>
+                    <h1 id="gameOverviewText">Overview of Game</h1>
+                    <p>Number Cortex is an original two player board game where you take turns with your opponent placing numbers on a square grid (1 ~ 17, excluding 9). However, you get to choose which number your opponent will play next. Your objective in this game is to get four in a row of a “common attribute” either horizontally, vertically, or diagonally. In other words, you are trying to line up four-in-a-row of</p>
                     <ul>
                         <li>Odds or Evens</li>
                         <li>Single digits or double digits</li>
                         <li>More attributes will be revealed as you play</li>
                     </ul>
-                    <p>The trick is to carefully eliminate the numbers you cannot pass to your opponent and force your opponent to give you a winning number.</p>
+                    <p>The trick is to carefully eliminate the numbers you cannot pass to your opponent and force your opponent to give you a winning number. Go ahead and test yourself against various levels of artificial intelligence!</p>
                 </div>
             </main><!-- #main -->
         </div><!-- #primary -->

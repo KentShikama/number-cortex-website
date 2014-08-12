@@ -1113,3 +1113,13 @@ table.cortex tbody tr:hover td {
 #appeals .fa-stack {
     color: #1FA67A;
 }
+
+/********************************************************
+
+18. Game Overview Text
+
+******************************************************/
+
+#gameOverviewText {
+    padding-bottom: 6px;
+}
