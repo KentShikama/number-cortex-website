@@ -1123,3 +1123,9 @@ table.cortex tbody tr:hover td {
 #gameOverviewText {
     padding-bottom: 6px;
 }
+
+#creditLine {
+    font-size: 10pt;
+    text-align: right;
+    margin-bottom: -30px;
+}

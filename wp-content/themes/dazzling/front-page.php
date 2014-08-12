@@ -72,6 +72,9 @@ if (get_option('show_on_front') == 'posts') {
                     </ul>
                     <p>The trick is to carefully eliminate the numbers you cannot pass to your opponent and force your opponent to give you a winning number. Go ahead and test yourself against various levels of artificial intelligence!</p>
                 </div>
+                <div id="creditLine">
+                    <p>*Apple, the Apple logo, iPad, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.</p>
+                </div>
             </main><!-- #main -->
         </div><!-- #primary -->
 
