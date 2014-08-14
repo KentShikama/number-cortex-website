@@ -314,19 +314,45 @@ textarea {
 #number_quarto_app_phone {
     position: absolute;
     left: 630px;
-    top: 25px; 
+    top: 25px;
 }
 
-#numberquartomobilebanner {
+#numberquartomobile {
     display: none;
 }
 
 @media (max-width: 540px) {
-    #numberquartomobilebanner {
-        display: block;
-    }
     #numberquartobanner {
         display: none;
+    }
+    #numberquartomobile {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+    #numberquartomobilebanner {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    #numberquartoapple {
+        position: absolute;
+        width: 100%;
+        margin-top: 156%;
+        left: 50%;
+    }
+    #numberquartogoogleplay {
+        position: absolute;
+        width: 100%;
+        left: 50%;
+        margin-top: 173%;
+    }
+
+    .iconimage {
+        max-width: 36%;
+        height: auto;
+        width: auto\9;
+        transform: translateX(-50%);
     }
 }
 
@@ -1107,7 +1133,7 @@ table.cortex tbody tr:hover td {
     padding: 10px;
 }
 #appeals .fa {
-  -webkit-font-smoothing: antialiased;  
+    -webkit-font-smoothing: antialiased;
 }
 
 #appeals .fa-stack {

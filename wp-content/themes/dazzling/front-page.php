@@ -6,8 +6,20 @@ if (get_option('show_on_front') == 'posts') {
     get_header();
     ?>
 
-    <div id="numberquartomobilebanner">
-        <img src="/images/number_cortex_mobile_banner.jpg" alt="number cortex mobile banner" />    
+    <div id="numberquartomobile">
+        <div id="numberquartoapple">
+            <a href="http://itunes.apple.com/app/id908897517">
+                <img class="iconimage" alt="Get it on the App Store" src="/images/icon_app_store.png" />
+            </a>
+        </div>
+        <div id="numberquartogoogleplay">
+            <a href="https://play.google.com/store/apps/details?id=com.numbercortex.android">
+                <img class="iconimage" alt="Get it on Google Play" src="/images/icon_google_play.png" />
+            </a>
+        </div>
+        <div id="numberquartomobilebanner">
+            <img src="/images/number_cortex_mobile_banner.jpg" alt="number cortex mobile banner" />    
+        </div>
     </div>
     <div id="numberquartobanner">
         <div id="numberquartobannercontents">
