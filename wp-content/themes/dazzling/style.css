@@ -306,15 +306,20 @@ textarea {
     left: 40px;
     top: 81px;
 }
-#coming_soon {
-    position: absolute;
-    left: 129px;
-    top: 410px;
-}
 #number_quarto_app_phone {
     position: absolute;
-    left: 630px;
+    left: 640px;
     top: 25px;
+}
+#numberquartogoogleplay {
+    position: absolute;
+    left: 278px;
+    top: 415px;
+}
+#numberquartoapple {
+    position: absolute;
+    left: 90px;
+    top: 415px;
 }
 
 #numberquartomobile {
@@ -335,20 +340,20 @@ textarea {
         width: 100%;
         height: auto;
     }
-    #numberquartoapple {
+    #numberquartoapplemobile {
         position: absolute;
         width: 100%;
         margin-top: 156%;
         left: 50%;
     }
-    #numberquartogoogleplay {
+    #numberquartogoogleplaymobile {
         position: absolute;
         width: 100%;
         left: 50%;
         margin-top: 173%;
     }
 
-    .iconimage {
+    .iconimagemobile {
         max-width: 36%;
         height: auto;
         width: auto\9;

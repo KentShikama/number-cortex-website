@@ -7,14 +7,14 @@ if (get_option('show_on_front') == 'posts') {
     ?>
 
     <div id="numberquartomobile">
-        <div id="numberquartoapple">
+        <div id="numberquartoapplemobile">
             <a href="http://itunes.apple.com/app/id908897517">
-                <img class="iconimage" alt="Get it on the App Store" src="/images/icon_app_store.png" />
+                <img class="iconimagemobile" alt="Get it on the App Store" src="/images/icon_app_store.png" />
             </a>
         </div>
-        <div id="numberquartogoogleplay">
+        <div id="numberquartogoogleplaymobile">
             <a href="https://play.google.com/store/apps/details?id=com.numbercortex.android">
-                <img class="iconimage" alt="Get it on Google Play" src="/images/icon_google_play.png" />
+                <img class="iconimagemobile" alt="Get it on Google Play" src="/images/icon_google_play_mobile.png" />
             </a>
         </div>
         <div id="numberquartomobilebanner">
@@ -24,8 +24,17 @@ if (get_option('show_on_front') == 'posts') {
     <div id="numberquartobanner">
         <div id="numberquartobannercontents">
             <div id="number_quarto_title"><img src="/images/number_cortex_title.png" alt="number cortex title" /></div>
-            <div id="coming_soon"><img src="/images/coming_soon.png" alt="coming soon" /></div>
             <div id="number_quarto_app_phone"><img src="/images/number_cortex_app.png" alt="number cortex app preview" /></div>
+            <div id="numberquartoapple">
+                <a href="http://itunes.apple.com/app/id908897517">
+                    <img class="iconimage" alt="Get it on the App Store" src="/images/icon_app_store.png" />
+                </a>
+            </div>
+            <div id="numberquartogoogleplay">
+                <a href="https://play.google.com/store/apps/details?id=com.numbercortex.android">
+                    <img class="iconimage" alt="Get it on Google Play" src="/images/icon_google_play.png" />
+                </a>
+            </div>
         </div>
     </div>
 
