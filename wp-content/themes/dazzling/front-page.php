@@ -18,8 +18,6 @@
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
-        <!-- favicon -->
-
         <?php if (of_get_option('custom_favicon')) { ?>
             <link rel="icon" href="<?php echo of_get_option('custom_favicon'); ?>" />
         <?php } ?>
@@ -96,7 +94,6 @@
                     </div>
                 </div>
             </div>
-
 
             <div id="content" class="site-content container">
                 <div id="primary" class="content-area col-sm-12 col-md-12">
