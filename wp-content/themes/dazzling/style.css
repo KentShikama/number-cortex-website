@@ -46,6 +46,7 @@ body {
     word-wrap: break-word;
     line-height: 1.7;
     font-size: 14px;
+    overflow: hidden;
 }
 
 a {
@@ -329,6 +330,7 @@ textarea {
 @media (max-width: 540px) {
     #numberquartobanner {
         display: none;
+        overflow: hidden;
     }
     #numberquartomobile {
         display: block;
