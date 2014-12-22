@@ -19,7 +19,7 @@
 define('DB_NAME', 'numberquarto');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'number_cortex');
 
 /** MySQL database password */
 ***REMOVED***
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '~$M`$8?*vOMUjlxdUuj|^LfSv(_*--(:oGs_u06{k?](pn5]+BsEHZUKzS9tIENt');
+define('SECURE_AUTH_KEY',  'W|&yT`UBff!TpYM0o|[ jDcS&w*,bLgCy9{WGl/`~f..*psei4 |)^`2{^,w73F+');
+define('LOGGED_IN_KEY',    ')`qPQ$1O{@nB;:S%QG9bSo2@<5_duV:?Sg/tp$W;17-)54IiDXl@7aUq#4U#@cNX');
+define('NONCE_KEY',        'AlLLhGB*cb!(`M0y:i IJU|8.:++|Mz$g@gK(-IuO-w~-iLl8w;qm`R5iB{L;hi+');
+define('AUTH_SALT',        'c3OL1F37cY!++x#n!eqsH~v6r;@$I4|s(A(8898M>?5)+UeegT2(|!-2k>k.no`{');
+define('SECURE_AUTH_SALT', '-`e79kokBlv^6dvl1++$+4B^G)@!p]O`O$1ohX-Lnk[Yq*a30*H}/i/-|.=F9JF-');
+define('LOGGED_IN_SALT',   ',$[OTvJx~Lxf^@Uj[# 5S`H-^eu~{40.;T^bm%x(=f/uek|x-+^h)<M,]6+e2m}Z');
+define('NONCE_SALT',       'V#*rJ+F;:,2[JI$x`T4S|3tys3ztc~|-yXcb_pQ?xMRlOsJ)sV[!yPqJ:=ECzuO}');
 
 /**#@-*/
 
