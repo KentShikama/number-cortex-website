@@ -26,7 +26,7 @@
         <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51ee1b910e0fe34b"></script>
         <!-- AddThis Button END -->
         <div class="site-info">
-            Copyright © 2014 Akane Corporation. All rights reserved. <a href="/terms-use/">Terms of Use</a>
+            Copyright © 2015 Kent Shikama. All rights reserved.
         </div><!-- .site-info -->
     </footer><!-- #colophon -->
 </div>
