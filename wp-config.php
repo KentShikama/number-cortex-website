@@ -16,10 +16,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'numberquarto');
+define('DB_NAME', 'number_cortex');
 
 /** MySQL database username */
-define('DB_USER', 'number_cortex');
+define('DB_USER', 'numbercortex’);
 
 /** MySQL database password */
 ***REMOVED***
@@ -32,6 +32,10 @@ define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+define('WP_SITEURL','http://www.numbercortex.com');
+define('WP_HOME','http://www.numbercortex.com');
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
