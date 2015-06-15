@@ -19,7 +19,7 @@
 define('DB_NAME', 'number_cortex');
 
 /** MySQL database username */
-define('DB_USER', 'numbercortex’);
+define('DB_USER', 'numbercortex');
 
 /** MySQL database password */
 ***REMOVED***
